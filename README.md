@@ -1,2 +1,2 @@
 # rss-aggregator
-RSS feed aggregator written in Go, Chi framework
+RSS feed aggregator written in Go - Chi framework
